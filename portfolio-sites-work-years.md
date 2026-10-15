@@ -184,3 +184,4 @@
 | Menghan Li | `https://menghli.github.io/portfolio/#/` | 2023 起（推算） |
 | Yiman / Chelsea Qiang | `https://yiman.me/#work` | 未知 |
 | Allison Cheng | `https://allisonhcheng.framer.website/` | 学生 / 2026 项目 |
+| Nina Gao | `https://www.ninagao.design/about` | 2+ 年 |
