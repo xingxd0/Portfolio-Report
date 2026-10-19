@@ -185,3 +185,10 @@
 | Yiman / Chelsea Qiang | `https://yiman.me/#work` | 未知 |
 | Allison Cheng | `https://allisonhcheng.framer.website/` | 学生 / 2026 项目 |
 | Nina Gao | `https://www.ninagao.design/about` | 2+ 年 |
+| Gia Xie | `https://giadesign.me/#work` | 未知 |
+| Qinglu Lu / Luella Lu | `https://www.lu-qinglu.com/` | 6+ 年 |
+| Vivian Liu | `https://viviliudesign.cargo.site/` | 未知 |
+| Ally Tsao | `https://allytsaodesign.framer.website/` | 2024 起 |
+| Xiaoyu Ma | `https://xiaoyu-ma.com/` | 5+ 年 |
+| Darlene Chen | `https://www.darlenechen.com/` | 2023 起（推算） |
+| Daisy Chen | `https://www.daisyqyc.com/` | 5 年 |
